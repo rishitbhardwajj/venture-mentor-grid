@@ -15,7 +15,7 @@ export const Route = createFileRoute("/")({
       { title: "MentorConnect — Learn. Connect. Grow." },
       { name: "description", content: "Connecting students with industry leaders from Google, Microsoft, Amazon and more to build future careers through 1:1 mentorship." },
       { property: "og:title", content: "MentorConnect — Learn. Connect. Grow." },
-      { property: "og:description", content: "Find the right mentor. Build the right career." },
+      { property: "og:description", content: "Connecting students with industry leaders from Google, Microsoft, Amazon and more to build future careers through 1:1 mentorship." },
     ],
   }),
   component: Home,
